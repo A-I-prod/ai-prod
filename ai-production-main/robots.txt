@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://varia-store.pages.dev/sitemap.xml
